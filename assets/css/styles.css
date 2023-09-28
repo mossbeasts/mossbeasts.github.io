@@ -1,8 +1,15 @@
+/* this is basically everything on the page incl. headers, even though it says body */
 body {
 	background: lime;
 }
+/* anything in the navigation bar gets class nav */
 
 .nav {
 	font-family: sans-serif;
 	background: yellow;
+	display: block;
+	/*  this refers to links in the navigation bar (basically everything rn)*/
+	a {
+		text-decoration: none;
+	}
 }
