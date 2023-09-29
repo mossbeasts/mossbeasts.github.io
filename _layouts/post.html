@@ -2,11 +2,12 @@
 layout: default
 ---
 <h1 class="posttitle">{{ page.title }}</h1>
-<bold><p class="bloo"><small>{{ page.date | date_to_string }} - {{ page.author }}</small></p></bold>
-<div class="postbody">
-{{ content }}
-<footer>
-	{%for tag in page.tags %}
+<bold><p class="bloo"><small>{{ page.date | date_to_string }} - {{ page.author }}
+	<br />
+	{% for tag in page.tags %}
 		{{ tag }}
 	{% endfor %}
+</small></p></bold>
+<div class="postbody">
+{{ content }}
 </div>
