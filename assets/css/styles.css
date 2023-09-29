@@ -41,11 +41,11 @@ body {
 	color: black;
 	background: #dcf485;
 	padding: .5em;
-	box-shadow: 3px 3px #c76f13;
+	box-shadow: 3px 3px #954663;
 }
 
 .tags {
-	color: #2e275b;
+	color: #954663;
 	a:visited {
 		color: lime;
 	}
