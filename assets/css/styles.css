@@ -1,6 +1,5 @@
 body {
-	/* background: #0c7683;*/
-	background-image: url("https://file.garden/ZRaOccpOlUzNlh72/grapevine.jpg");
+	background: #0c7683;
 	color: #32001a;
 }
 /* anything in the navigation bar gets class nav */
@@ -14,7 +13,7 @@ body {
 	border-radius: 1em;
 	font-size: 1em;
 	margin-bottom: 4em;
-	box-shadow: 3px 3px 3px #0dcde3;
+	box-shadow: 3px 3px 3px #a3bc25;
 	text-decoration: none;
 	}
 /* the list of posts on the posts/blog page */
@@ -31,7 +30,7 @@ body {
 .postbody {
 	display: block;
 	background: ghostwhite;
-	box-shadow: 3px 3px 3px aqua;
+	box-shadow: 3px 3px 3px #a3bc25;
 	color: #33001a;
 	font-family: sans-serif;
 	padding: 2em;
