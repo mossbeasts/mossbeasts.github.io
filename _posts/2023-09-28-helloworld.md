@@ -1,7 +1,7 @@
 ---
 layout: post
 author: mossbeasts
-tags: testing
+tag: testing
 ---
 
 Hello! world!
