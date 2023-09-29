@@ -1,6 +1,6 @@
 /* this is basically everything on the page incl. headers, even though it says body */
 body {
-	background: ghostwhite;
+	background: #0c7683;
 	color: #32001a;
 }
 /* anything in the navigation bar gets class nav */
@@ -8,7 +8,7 @@ body {
 .nav {
 	font-family: sans-serif;
 	background: yellow;
-	color: aqua;
+	color: #0dcde3;
 	}
 
 /* the list of posts on the posts/blog page */
@@ -16,13 +16,13 @@ body {
 .postslist {
 	list-style: none;
 	font-family: sans-serif;
-	color: aqua;
+	color: #0dcde3;
 
 }
 .posttitle {
 	text-transform: lowercase;
 	font-family: sans-serif;
-	color: aqua;
+	color: #0dcde3;
 	text-decoration: underline;
 }
 
@@ -32,4 +32,7 @@ body {
 	box-shadow: 3px 3px 3px aqua;
 	color: #33001a;
 	font-family: sans-serif;
+	padding: 2em;
+	margin: 2em;
 }
+
