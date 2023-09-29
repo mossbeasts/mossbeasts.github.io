@@ -7,10 +7,7 @@ body {
 .nav {
 	font-family: sans-serif;
 	background: yellow;
-	display: block;
-	/*  this refers to links in the navigation bar (basically everything rn)*/
-	a {
-		text-decoration: none;
+	color: aqua;
 	}
 }
 
@@ -18,4 +15,9 @@ body {
 
 .postslist {
 	list-style: none;
+	.h2 {
+		font-family: sans-serif;
+		color: aqua;
+		font-size: 1.5em;
+
 }
