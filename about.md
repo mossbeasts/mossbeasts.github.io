@@ -3,9 +3,6 @@ layout: default
 title: about
 ---
 <span class="postbody">
-
-
-<span class="postbody">
 mossbeasts are tardigrades.
 
 <span class="postbody">
