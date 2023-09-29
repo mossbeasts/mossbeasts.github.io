@@ -15,6 +15,7 @@ body {
 	border-radius: 1em;
 	size: 3em;
 	margin-bottom: 4em;
+	box-shadow: 3px 3px 3px #0dcde3;
 	}
 
 /* the list of posts on the posts/blog page */
@@ -46,5 +47,4 @@ body {
 	color: black;
 	background: #dcf485;
 	padding: .5em;
-	box-shadow: 3px 3px 3px #0dcde3;
 }
