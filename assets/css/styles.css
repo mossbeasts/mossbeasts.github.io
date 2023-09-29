@@ -25,7 +25,7 @@ body {
 .posttitle {
 	text-transform: lowercase;
 	font-family: sans-serif;
-	color: aqua;
+	color: #b65b04;
 }
 .postbody {
 	display: block;
@@ -40,7 +40,7 @@ body {
 	color: black;
 	background: #dcf485;
 	padding: .5em;
-	box-shadow: 3px 3px aqua;
+	box-shadow: 3px 3px #b65b04;
 }
 
 .tags {
