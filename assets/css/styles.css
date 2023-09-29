@@ -25,7 +25,8 @@ body {
 .posttitle {
 	text-transform: lowercase;
 	font-family: sans-serif;
-	color: #b65b04;
+	color: floralwhite;
+	text-decoration: overline 3px #dcf485;
 }
 .postbody {
 	display: block;
