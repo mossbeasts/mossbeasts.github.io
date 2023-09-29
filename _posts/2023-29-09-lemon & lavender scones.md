@@ -5,7 +5,7 @@ tags: food
 ---
 I made these a few days ago, and they turned out to be a hit, so I thought I'd write down the recipe.
 
-Make the (King Arthur lemon scones recipe)[https://kingarthurbaking.com/recipes/lemon-scones-recipe) with the following modifications:
+Make the King Arthur [lemon scones recipe](https://kingarthurbaking.com/recipes/lemon-scones-recipe) with the following modifications:
 
 1. Lemon juice + some zest in the dough instead of lemon oil and lemon juice powder. Reduce yoghurt to 1/4 cup. (Aside from the zest, this is one of their written variations).
 
