@@ -5,6 +5,6 @@
 - name: posts
   link: /postslist.html
 - name: tags
-  link: tagcloud.html
+  link: /tagcloud.html
 - name: rss
   link: /feed.xml
