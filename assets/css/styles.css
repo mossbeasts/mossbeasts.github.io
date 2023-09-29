@@ -9,13 +9,11 @@ body {
 	font-family: sans-serif;
 	background: ghostwhite;
 	color: #0dcde3;
-	display: block;
+	display: inline;
 	margin: 2em;
 	padding: 2em;
 	border-radius: 1em;
-		ul, li {
-		       	display: inline; 
-		}
+	size: 3em;
 	}
 
 /* the list of posts on the posts/blog page */
@@ -23,7 +21,7 @@ body {
 .postslist {
 	list-style: none;
 	font-family: sans-serif;
-	color: #0dcde3;
+	color: black;
 
 }
 .posttitle {
@@ -44,5 +42,5 @@ body {
 }
 
 .bloo {
-	color: #0dcde3;
+	color: black;
 }
