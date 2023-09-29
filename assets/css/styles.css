@@ -8,7 +8,7 @@ body {
 .nav {
 	font-family: sans-serif;
 	background: ghostwhite;
-	color: #0dcde3;
+	color: #83a509;
 	display: inline;
 	margin: 2em;
 	padding: 2em;
@@ -44,4 +44,6 @@ body {
 
 .bloo {
 	color: black;
+	background: #dcf485;
+	padding: .5em;
 }
