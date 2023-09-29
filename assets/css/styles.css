@@ -1,14 +1,14 @@
 /* this is basically everything on the page incl. headers, even though it says body */
 body {
-	background: #0c7683;
-	color: #32001a;
+	background: #e99775;
+	color: #7e4f43;
 }
 /* anything in the navigation bar gets class nav */
 
 .nav {
 	font-family: sans-serif;
 	background: floralwhite;
-	color: black;
+	color: #7e4f43;
 	display: inline;
 	margin: .5em;
 	padding: 1.5em;
@@ -24,7 +24,7 @@ body {
 .postslist {
 	list-style: none;
 	font-family: sans-serif;
-	color: black;
+	color: #7e4f43;
 
 }
 .posttitle {
@@ -37,20 +37,20 @@ body {
 	display: block;
 	background: ghostwhite;
 	box-shadow: 3px 3px 3px aqua;
-	color: #33001a;
+	color: #7e4f43;
 	font-family: sans-serif;
 	padding: 2em;
 	margin: 2em;
 }
 
 .bloo {
-	color: black;
 	background: #dcf485;
 	padding: .5em;
+	color: #7e4f43;
 }
 
 .tags {
-	color: #2e275b;
+	color: #33001a;
 	a:visited {
 		color: lime;
 	}
