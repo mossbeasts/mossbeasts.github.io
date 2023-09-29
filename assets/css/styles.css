@@ -9,6 +9,13 @@ body {
 	font-family: sans-serif;
 	background: ghostwhite;
 	color: #0dcde3;
+	display: block;
+	margin: 2em;
+	padding: 2em;
+	border-radius: 1em;
+		ul, li {
+		       	display: inline; 
+		}
 	}
 
 /* the list of posts on the posts/blog page */
