@@ -1,5 +1,6 @@
 body {
-	background: #0c7683;
+	/* background: #0c7683;*/
+	background-image: url("https://file.garden/ZRaOccpOlUzNlh72/grapevine.jpg");
 	color: #32001a;
 }
 /* anything in the navigation bar gets class nav */
