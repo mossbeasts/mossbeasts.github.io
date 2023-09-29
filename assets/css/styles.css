@@ -1,56 +1,49 @@
-/* this is basically everything on the page incl. headers, even though it says body */
 body {
-	background: #230248;
-	color: #7e4f43;
+	background: #0c7683;
+	color: #32001a;
 }
 /* anything in the navigation bar gets class nav */
-
 .nav {
 	font-family: sans-serif;
-	color: #230248;
-	background: #ded9b1;
+	background: floralwhite;
+	color: black;
 	display: inline;
 	margin: .5em;
 	padding: 1.5em;
 	border-radius: 1em;
 	font-size: 1em;
 	margin-bottom: 4em;
-	box-shadow: 3px 3px 3px #6666ff;
+	box-shadow: 3px 3px 3px #0dcde3;
 	text-decoration: none;
 	}
-
 /* the list of posts on the posts/blog page */
-
 .postslist {
 	list-style: none;
 	font-family: sans-serif;
-	color: #230248;
-
+	color: black;
 }
 .posttitle {
 	text-transform: lowercase;
 	font-family: sans-serif;
-	color: #ded9b1;
+	color: #0dcde3;
 }
-
 .postbody {
 	display: block;
-	background: #ded9b1;
-	box-shadow: 3px 3px 3px #6666ff;
-	color: #7e4f43;
+	background: ghostwhite;
+	box-shadow: 3px 3px 3px aqua;
+	color: #33001a;
 	font-family: sans-serif;
 	padding: 2em;
 	margin: 2em;
 }
-
 .bloo {
+	color: black;
 	background: #dcf485;
 	padding: .5em;
-	color: #7e4f43;
 }
 
 .tags {
-	color: #230248;
+	color: #2e275b;
 	a:visited {
 		color: lime;
 	}
