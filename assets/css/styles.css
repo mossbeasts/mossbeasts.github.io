@@ -7,7 +7,7 @@ body {
 
 .nav {
 	font-family: sans-serif;
-	background: yellow;
+	background: ghostwhite;
 	color: #0dcde3;
 	}
 
@@ -17,6 +17,8 @@ body {
 	list-style: none;
 	font-family: sans-serif;
 	color: #0dcde3;
+	display: block;
+	background: floralwhite;
 
 }
 .posttitle {
@@ -24,6 +26,10 @@ body {
 	font-family: sans-serif;
 	color: #0dcde3;
 	text-decoration: underline;
+	display: block;
+	background: floralwhite;
+	padding: 1em;
+	margin: 1em;
 }
 
 .postbody {
