@@ -1,6 +1,6 @@
 /* this is basically everything on the page incl. headers, even though it says body */
 body {
-	background: #230248;
+	background: #7e93d3;
 	color: #7e4f43;
 }
 /* anything in the navigation bar gets class nav */
@@ -15,7 +15,7 @@ body {
 	border-radius: 1em;
 	font-size: 1em;
 	margin-bottom: 4em;
-	box-shadow: 3px 3px 3px #6666ff;
+	box-shadow 3px 3px 3px #fdf627;
 	text-decoration: none;
 	}
 
@@ -36,7 +36,7 @@ body {
 .postbody {
 	display: block;
 	background: #ded9b1;
-	box-shadow: 3px 3px 3px #6666ff;
+	box-shadow 3px 3px 3px #fdf627;
 	color: #7e4f43;
 	font-family: sans-serif;
 	padding: 2em;
