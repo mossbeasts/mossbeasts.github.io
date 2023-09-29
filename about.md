@@ -4,4 +4,6 @@ title: about
 ---
 # about
 
-this is where your "about" info goes.
+mossbeasts are tardigrades.
+
+i promise this site won't be quiiite this eye-searing when it's no longer under construction.
