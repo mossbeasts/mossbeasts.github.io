@@ -4,7 +4,7 @@
   link: /about.html
 - name: posts
   link: /postslist.html
-- name: tags
-  link: /tagcloud.html
+- name: topics
+  link: /topics.html
 - name: rss
   link: /feed.xml

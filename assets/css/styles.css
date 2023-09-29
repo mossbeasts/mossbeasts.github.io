@@ -48,3 +48,14 @@ body {
 	background: #dcf485;
 	padding: .5em;
 }
+
+.tags {
+	color: #dcf485;
+	a:visited {
+		color: lime;
+	}
+	a:hover {
+		color: seagreen;
+	}
+	font-size: 1.3em;
+}
