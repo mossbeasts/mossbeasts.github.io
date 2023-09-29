@@ -3,7 +3,7 @@ layout: default
 title: about
 ---
 <span class="postbody">
-mossbeasts are tardigrades.
+expect: moss, beasts, mossbeasts, computers, food, the occasional piece of fiction, the less-ocasional complaining/discussion about the process of writing, watercolor, other art.
 
 <span class="postbody">
-expect: moss, beasts, mossbeasts, computers, food, the occasional piece of fiction, the less-ocasional complaining/discussion about the process of writing, watercolor, other art.
+This website was created with mossbeasts' [blog skeletonizer](https://github.com/mossbeasts/blog-skeletonizer"), a simple template/framework/sandbox to create a personal website with github pages. Some other sites that use it include [cambrianimplosion](cambrianimplosion.github.io) and [sean2bo](sean2bo.github.io). Feel free to use it if you'd like, and to send me any questions you may have by submitting an issue on the github repo linked above.
