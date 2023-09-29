@@ -1,6 +1,8 @@
 ---
 layout: post
 author: mossbeasts
+tags:
+- computers
 ---
 
 i've been looking at starting a blog for... oh, eight years? and i've never quite been able to think of a name, and i've never quite been able to think of a theme, and there was just always something better (easier) to do.

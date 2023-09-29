@@ -1,6 +1,8 @@
 ---
 layout: post
 author: mossbeasts
+tags:
+- food
 ---
 First of all, I'm beginning to think that maybe I should start backdating these posts - I mean, six in one day? What kind of person writes six blog posts in one day?
 

@@ -5,4 +5,8 @@ layout: default
 <bold><p class="bloo"><small>{{ page.date | date_to_string }} - {{ page.author }}</small></p></bold>
 <div class="postbody">
 {{ content }}
+<footer>
+	{%for tag in page.tags %}
+		{{ tag }}
+	{% endfor %}
 </div>

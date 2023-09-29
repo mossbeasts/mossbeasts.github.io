@@ -1,6 +1,8 @@
 ---
 layout: post
 author: mossbeasts
+tags:
+- computers
 ---
 The following is loosely adapted from a series of notes I posted on my OCF site about a year ago. I'm assuming that you're using NetworkManager to do this, and that you'd like to use the CLI as much as possible (like year-ago-me, who was too stubborn to instal a gui-based program to do it.
 
