@@ -3,12 +3,6 @@ layout: default
 ---
 <h1 class="posttitle">{{ page.title }}</h1>
 <bold><p class="bloo"><small>{{ page.date | date_to_string }} - {{ page.author }}
-	<br />
-	<span>
-		{% for tag in page.tags %}
-		{% capture tag_name %}{{ tag }}{% endcapture %}
-		<a href="tags/{{ tag.name }}"><code class="tag"><nobr>{{ tag_name }}</nobr></code></a>
-		{% endfor %}
 </small></p></bold>
 <div class="postbody">
 {{ content }}
