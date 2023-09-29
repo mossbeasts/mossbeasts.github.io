@@ -5,7 +5,7 @@ author: mossbeasts
 
 i've been looking at starting a blog for... oh, eight years? and i've never quite been able to think of a name, and i've never quite been able to think of a theme, and there was just always something better (easier) to do.
 
-but i was nerd-sniped into setting one up for [sean2bo](https://sean2bo.github.io) - someone mentioned the joys of finding the blog of some guy on the internet that's just chalk-full of interesting stuff and usually no more than a couple of handwritten html and css files, he mentioned wanting to write a blog, and i went "oh! i can do that!". 
+but i was nerd-sniped into setting one up for [sean2bo](https://sean2bo.github.io) - someone mentioned the joys of finding the blog of some guy on the internet that's just chalk-full of interesting stuff and usually no more than a couple of handwritten html and css files, he mentioned wanting to write a blog, and i went "oh! i can do that!" 
 
 Twelve hours later not only have I created a sandbox for *him* to blog in, I've ended up setting up this site for myself.
 
