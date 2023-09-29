@@ -25,11 +25,11 @@ body {
 .posttitle {
 	text-transform: lowercase;
 	font-family: sans-serif;
-	color: #eab82d;
+	color: aqua;
 }
 .postbody {
 	display: block;
-	background: ghostwhite;
+	background: floralwhite;
 	box-shadow: 3px 3px #a3bc25;
 	color: #33001a;
 	font-family: sans-serif;
@@ -40,6 +40,7 @@ body {
 	color: black;
 	background: #dcf485;
 	padding: .5em;
+	box-shadow: 3px 3px aqua;
 }
 
 .tags {
