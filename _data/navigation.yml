@@ -4,3 +4,5 @@
   link: /about.html
 - name: posts
   link: /postslist.html
+- name: rss
+  link: /feed.xml
