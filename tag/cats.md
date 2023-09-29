@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: cats"
+title: "Topic: cats"
 tag: cats
 robots: noindex
 ---
