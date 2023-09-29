@@ -1,6 +1,6 @@
 body {
-	background: #0c7683;
-	color: #32001a;
+	background: #45593f; /* #0c7683;*/
+	color: #152206;
 }
 /* anything in the navigation bar gets class nav */
 .nav {
@@ -13,7 +13,7 @@ body {
 	border-radius: 1em;
 	font-size: 1em;
 	margin-bottom: 4em;
-	box-shadow: 3px 3px 3px #a3bc25;
+	box-shadow: 3px 3px #a3bc25;
 	text-decoration: none;
 	}
 /* the list of posts on the posts/blog page */
@@ -25,12 +25,12 @@ body {
 .posttitle {
 	text-transform: lowercase;
 	font-family: sans-serif;
-	color: #0dcde3;
+	color: #dcf485;
 }
 .postbody {
 	display: block;
 	background: ghostwhite;
-	box-shadow: 3px 3px 3px #a3bc25;
+	box-shadow: 3px 3px #a3bc25;
 	color: #33001a;
 	font-family: sans-serif;
 	padding: 2em;
@@ -52,3 +52,7 @@ body {
 	}
 	font-size: 1.3em;
 }
+a {
+	color: #954663;
+}
+
