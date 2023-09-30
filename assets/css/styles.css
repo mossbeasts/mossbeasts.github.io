@@ -47,17 +47,14 @@ body {
 
 .tags {
 	color: #954663;
-	a:visited {
-		color: lime;
-	}
-	a:hover {
-		color: seagreen;
-	}
-	font-size: 1.3em;
+	font-size: 2em;
+	font-weight: bold;
+
 }
 a {
 	color: #954663;
 	text-decoration: none;
+	font-weight: bold;
 }
 
 img {
