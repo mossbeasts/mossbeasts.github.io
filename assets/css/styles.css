@@ -26,7 +26,7 @@ body {
 	text-transform: lowercase;
 	font-family: sans-serif;
 	color: floralwhite;
-	text-decoration: overline 3px #dcf485;
+	text-decoration: overline 4px #dcf485 underline 2px #954663;
 }
 .postbody {
 	display: block;
