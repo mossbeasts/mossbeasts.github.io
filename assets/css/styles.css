@@ -26,7 +26,11 @@ body {
 	text-transform: lowercase;
 	font-family: sans-serif;
 	color: #954663;
-	text-shadow: 2px 1px floralwhite;
+	background: floralwhite;
+	display: block;
+	box-shadow 3px 3px #954663;
+	margin: .5em;
+	padding: .5em;
 }
 .postbody {
 	display: block;
