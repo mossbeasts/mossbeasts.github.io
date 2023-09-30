@@ -21,16 +21,13 @@ body {
 	list-style: none;
 	font-family: sans-serif;
 	color: black;
+	text-transform: lowercase;
 }
 .posttitle {
 	text-transform: lowercase;
 	font-family: sans-serif;
-	color: #954663;
-	background: floralwhite;
-	display: block;
-	box-shadow 3px 3px #954663;
-	margin: .5em;
-	padding: .5em;
+	color: #dcf485;
+	text-decoration: underline overline 1.5px floralwhite;
 }
 .postbody {
 	display: block;
