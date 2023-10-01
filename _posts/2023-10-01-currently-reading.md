@@ -13,6 +13,8 @@ From the library, pbook (physical book) and ebook (also from the library); I've 
 
 Anyway, I've been enjoying this so far! Interesting plot, interesting characters. I like the nature of the disguise/printing system; it feels pretty unique. (This is your chance to instantly think of three or four books that use a very similar system and tell me about it). Worldbuilding has been... okay? Surprisingly understated re: where in the universe/what the planets in it are like, but I think that's just a function of it being a pretty tightly-focused story, geographically speaking. I'm still not totally clear what a "cradle" is as compared to a regular planet (maybe they're the same thing?) but I'm just kind of going with it at this point.
 
+<hr>
+
 ... and that's it, actually! I am usually reading more than one book at a time, but I haven't done laundry recently, and I just finished *Passing Strange* by Ellen Klages, which was the other thing I was reading alongside *The Blighted Stars.*
 
 (Doing laundry is related in that I like to wait in the laundry room until the wash cycle is finished, so I'm less likely to need to wait for a dryer. I either have a designated laundry-room book, or I start new books to see if they're any good.)
