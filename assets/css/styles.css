@@ -60,3 +60,9 @@ a {
 img {
 	max-width: 80%;
 }
+
+.postdate {
+	font-size: 1em;
+	color: black;
+	text-decoration: none;
+}

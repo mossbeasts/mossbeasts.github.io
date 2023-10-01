@@ -6,7 +6,7 @@ title: posts list
 <ul class="postslist"> <span class="postbody">
 	{% for post in site.posts %}
 	<li style="list-style: none;">
-		<h2><a href="{{ post.url }}">{{ post.title | upcase }} - {{ post.date | date_to_string }}</a></h2>
+		<h2><a href="{{ post.url }}">{{ post.title | upcase }} <span class="postdate" - {{ post.date | date_to_string }}</span></a></h2>
 		{{ post.exerpt }}
 	</li>
 	{% endfor %}
