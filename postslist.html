@@ -3,11 +3,15 @@ layout: default
 title: posts list
 ---
 <h1 class="posttitle">posts from the blog</h1>
-<ul class="postslist"> <span class="postbody">
+	<ul class="postslist"> 
+	<span class="postbody">
+<span class="postlistcontainer">
 	{% for post in site.posts %}
 	<li style="list-style: none;">
-		<h2><a href="{{ post.url }}">{{ post.title | upcase }} <span class="postdate"> - {{ post.date | date_to_string }}</span></a></h2>
-		{{ post.exerpt }}
+		<h2><a href="{{ post.url }}">{{ post.title | upcase }} </a></h2><span class="postdate">({{ post.date | date_to_string}} )</span>
+		<br />
+		<p>{{ post.exerpt }}</p>
 	</li>
 	{% endfor %}
 	</span>
+</span>
