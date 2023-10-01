@@ -9,9 +9,9 @@ On the other hand, this is a recipe I posted on my instagram a few weeks ago, an
 
 # Eggs in Limbo
 ## Obligatory food-blog recipe note
-...writen mostly just because I like talking about food, and reading people's thoughts on their recipes (I will actually read the preamble to an online recipe, provided it's well-writen. I have noticed I seem to be in the minority here, so I don't be *too* offended if you skip my commentary).
+...written mostly just because I like talking about food, and reading people's thoughts on their recipes (I will actually read the preamble to an online recipe, provided it's well-written. I have noticed I seem to be in the minority here, so I don't be *too* offended if you skip my commentary).
 
-Anyway, this came about after I'd been despearately craving eggs in purgatory (think Italian shakshouka) for three days. Unfortunately for me, we had zero (0) canned tomatoes, and no good fresh tomatoes. This was my best attempt at something that was vaguely like eggs in purgatory, using ingredients we actually *had*.
+Anyway, this came about after I'd been desperately craving eggs in purgatory (think Italian shakshouka) for three days. Unfortunately for me, we had zero (0) canned tomatoes, and no good fresh tomatoes. This was my best attempt at something that was vaguely like eggs in purgatory, using ingredients we actually *had*.
 
 I cook mostly by ratio/feel, so I'm only guessing at proper measurements. To those who like to cook with the tablespoon measure in hand, sorry.
 
@@ -25,7 +25,7 @@ Limbo is a synonym for purgatory (ish), which is where I got the name - the idea
 - dill
 - thyme, oregano, whatever other herbs you'd like.
 - a little lemon juice
-- some greek yoghurt (like one spoonful max)
+- some greek yogurt (like one spoonful max)
 - an egg
 - mushroom
 - zucchini

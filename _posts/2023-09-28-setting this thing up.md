@@ -22,8 +22,8 @@ github pages is basically the solution to that - sure, it *does* negate the bene
 
 (ask me, some day, about my opinion on wordpress- and google-sites-based blogs, and you'll realize what a truly unfortunate sense of blog-snobbery i've developed.)
 
-so i set up the intital sandbox on my github account (this blog), wrote some truly terrible css for it, and let him clone it.
+so i set up the initial sandbox on my github account (this blog), wrote some truly terrible css for it, and let him clone it.
 
 but it seems like a shame to just let the hours i spent figuring out how to deploy a github pages site go to waste, so i think i'll sink a few more (hundred) in, writing posts and troubleshooting this blog.
 
-that's what you call efficency.
+that's what you call efficiency.

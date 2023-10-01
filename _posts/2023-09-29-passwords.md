@@ -3,7 +3,7 @@ layout: post
 author: mossbeasts
 tags: computers
 ---
-i hate changing my password. it's probably my worst habit as someone who considers themself reasonably sercurity-savvy, but i just hate changing my password.
+i hate changing my password. it's probably my worst habit as someone who considers themself reasonably security-savvy, but i just hate changing my password.
 
 what do you mean, i have to *update the entry in my password manager??* how could you be so cruel, random website??
 
