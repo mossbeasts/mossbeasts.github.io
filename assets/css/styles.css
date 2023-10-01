@@ -66,3 +66,11 @@ img {
 	color: black;
 	text-decoration: none;
 }
+
+hr {
+	border: none;
+	height: 10px;
+	width: 30px;
+	align: center;
+	background-color: #954663;
+}
