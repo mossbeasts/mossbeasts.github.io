@@ -56,8 +56,6 @@ body {
 }
 a {
 	color: #954663;
-	text-decoration: none;
-	font-weight: bold;
 }
 
 img {
@@ -68,6 +66,7 @@ img {
 	font-size: 1em;
 	color: black;
 	text-decoration: none;
+	font-family: "Mate", serif;
 }
 
 hr {
