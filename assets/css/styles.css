@@ -1,12 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aldrich&family=Mate&display=swap');
 
 body {
 	background: #152b0f; /* #0c7683;*/
 	color: #152206;
+	font-family: "Mate", serif;
 }
 /* anything in the navigation bar gets class nav */
 .nav {
-	font-family: "Young Serif", serif;
+	font-family: "Aldrich", sans-serif;
 	background: floralwhite;
 	color: black;
 	display: inline;
@@ -17,17 +18,18 @@ body {
 	margin-bottom: 4em;
 	box-shadow: 3px 3px #a3bc25;
 	text-decoration: none;
+	font-weight: none;
 	}
 /* the list of posts on the posts/blog page */
 .postslist {
 	list-style: none;
-	font-family: sans-serif;
+	font-family: "Mate", sans-serif;
 	color: black;
 	text-transform: lowercase;
 }
 .posttitle {
 	text-transform: lowercase;
-	font-family: "Young Serif", serif;
+	font-family: "Aldrich", serif;
 	color: #dcf485;
 	text-decoration: underline 5px floralwhite;
 }
@@ -36,7 +38,6 @@ body {
 	background: floralwhite;
 	box-shadow: 3px 3px #a3bc25;
 	color: #33001a;
-	font-family: sans-serif;
 	padding: 2em;
 	margin: 2em;
 }
@@ -79,5 +80,5 @@ hr {
 
 h1,h2,h3,h4 {
 	color: #954663;
-	font-family: "Young Serif", serif;
+	font-family: "Aldrich", serif;
 }
