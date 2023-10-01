@@ -1,0 +1,22 @@
+.postslistcontainer {
+	display: block;
+	background: lime;
+}
+.postdate {
+	font-size: 1em;
+	color: black;
+	text-decoration: none;
+	font-family: "Mate", serif;
+}
+.postslist {
+	list-style: none;
+	font-family: "Mate", sans-serif;
+	color: black;
+	text-transform: lowercase;
+}
+
+.tags {
+	color: #954663;
+	font-size: 2em;
+	font-weight: bold;
+}
