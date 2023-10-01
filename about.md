@@ -3,7 +3,7 @@ layout: default
 title: about
 ---
 <div class="postbody">
-![a picture of purple and white cauliflower]("https://file.garden/ZRaOccpOlUzNlh72/cabbage.jpg")
+<img src="https://file.garden/ZRaOccpOlUzNlh72/cabbage.jpg">
 
 expect: moss, beasts, mossbeasts, computers, food, the occasional piece of fiction, the less-ocasional complaining/discussion about the process of writing, watercolor, other art.
 </div>
