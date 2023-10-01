@@ -4,7 +4,7 @@ body {
 }
 /* anything in the navigation bar gets class nav */
 .nav {
-	font-family: sans-serif;
+	font-family: "Young Serif", serif;
 	background: floralwhite;
 	color: black;
 	display: inline;
@@ -25,7 +25,7 @@ body {
 }
 .posttitle {
 	text-transform: lowercase;
-	font-family: sans-serif;
+	font-family: "Young Serif", serif;
 	color: #dcf485;
 	text-decoration: underline 5px floralwhite;
 }
@@ -69,8 +69,13 @@ img {
 
 hr {
 	border: none;
-	height: 10px;
-	width: 30px;
+	height: .5em;
+	width: 5em;
 	align: center;
 	background-color: #954663;
+}
+
+h1,h2,h3,h4 {
+	color: #954663;
+	font-family: "Young Serif", serif;
 }
