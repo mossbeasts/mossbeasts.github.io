@@ -3,7 +3,7 @@
 body {
 /*	background: #152b0f; */
 	background-image: url(https://file.garden/ZRaOccpOlUzNlh72/walnutbranches.jpg);
-	background-size: contain;
+	background-size: cover;
 	color: #152206;
 	font-family: "Mate", serif;
 }
@@ -18,7 +18,7 @@ body {
 
 .bg img {
 	align: center;
-	max-width: 100%;
+	max-width: 90%;
 	height: auto;
 }
 
