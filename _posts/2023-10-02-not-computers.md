@@ -11,4 +11,6 @@ It took me. SO long to get the color of the shallot right, and I'm still not sur
 
 Anyway, here's the painting.
 
-![Squash painting - a painting of one large, oblong squash, a head of garlic, a big onion, and a small shallot]("https://file.garden/ZRaOccpOlUzNlh72/squash%20painting")
+<img src="https://file.garden/ZRaOccpOlUzNlh72/squash%20painting">
+
+It'll be bigger if you open it in a new tab.
