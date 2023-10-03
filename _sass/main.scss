@@ -5,13 +5,27 @@ body {
 	color: #152206;
 	font-family: "Mate", serif;
 }
+.bg {
+	display: block;
+	background: floralwhite;
+	box-shadow: 3px -3px #a3bc25;
+	color: #33001a;
+	padding: 2em;
+	margin: 2em;
+}
+
+.bg img {
+	align: center;
+	max-width: 100%;
+	height: auto;
+}
 
 a {
 	color: #954663;
 }
 
-img {
-	max-width: 30vh;
+.displayimg {
+	max-width:50%;
 	height: auto;
 }
 
