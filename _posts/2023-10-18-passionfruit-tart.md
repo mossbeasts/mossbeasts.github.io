@@ -75,6 +75,7 @@ Not to be *too* sappy about it, but I think this tart is one of the more baker-y
 
 ## Notes
 **Passionfruit:** I made this with fresh passionfruit, since I had some on hand. I'm 99% sure that you can do it with puree, too; you'll want about 2/3rds of a cup.
+
 **Cream:** If you're feeling lazy, feel free to leave out the cream. If you do, I'd top the tart with some powdered sugar, like a lemon bar.
 
 Enjoy!
