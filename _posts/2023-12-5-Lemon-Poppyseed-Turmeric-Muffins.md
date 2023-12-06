@@ -5,7 +5,7 @@ Tags: food, baking
 ---
 
 # Lemon Poppyseed Turmeric Muffins (Needs A Catchy Name Muffins)
-<img style="max-width: 80%;" src="https://file.garden/ZRaOccpOlUzNlh72/muffinsoven">
+<img style="max-width: 80%; align: center;" src="https://file.garden/ZRaOccpOlUzNlh72/muffinsoven">
 
 A friend called these “the most elevated lemon-poppyseed muffins I’ve eaten,” an anonymous housemate said that they “tasted delicious.” They are, true to me-baking form, almost completely improvised in terms of flavors. Believe it or not, the recipe I referenced was for blueberry muffins.
 
