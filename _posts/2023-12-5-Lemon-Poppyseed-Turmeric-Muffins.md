@@ -57,10 +57,10 @@ If your butter is at room temperature, do not microwave it. If it is not at room
 8.	Add 1/3 cup milk. Mix.
 9.	Add 1 cup flour. Mix.
 10.	Assess your dough’s texture. 
-      You want the dough to be runny but not thin. It should drip off your spoon, but slowly. If you have ever made brownies, it should be about the texture of a brownie batter. If you haven’t made brownies, that’s okay. You’ll have the chance. If it’s too thin, add more flour. If it's to thick, add more milk. If it's about right, leave it.
+      - You want the dough to be runny but not thin. It should drip off your spoon, but slowly. If you have ever made brownies, it should be about the texture of a brownie batter. If you haven’t made brownies, that’s okay. You’ll have the chance. If it’s too thin, add more flour. If it's to thick, add more milk. If it's about right, leave it.
 11.	Add grated ginger, turmeric, and poppyseeds to taste.
-      To do this, taste the batter, and add more ginger and/or turmeric as you see fit. I am pretty comfortable trying small amounts of dough that contain raw egg, but you might not be! If you’re not, you can go by smell, instead. It’s less exact, but should still work fine.
-      As for poppyseeds—think of the best lemon poppyseed muffin you’ve eaten, and add enough poppyseeds to make the batter look like that muffin. The more you add, the more you’ll be able to taste them.
+      - To do this, taste the batter, and add more ginger and/or turmeric as you see fit. I am pretty comfortable trying small amounts of dough that contain raw egg, but you might not be! If you’re not, you can go by smell, instead. It’s less exact, but should still work fine.
+      - As for poppyseeds—think of the best lemon poppyseed muffin you’ve eaten, and add enough poppyseeds to make the batter look like that muffin. The more you add, the more you’ll be able to taste them.
 12.	Grease your muffin tin.
 13.	Scoop the batter into each cup. You want the cups to be about two-thirds of the way full, but it’s okay to overfill them a little—just understand that it means your muffins might overflow while they’re baking.
 14.	Sprinkle some sugar onto the top of each puddle of muffin batter.
